@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Husnain Javaid</h1>
 
 <h3 align="center">
-Full-Stack MERN Developer • React.js • Node.js • MongoDB
+Full-Stack MERN Developer | Frontend Developer
 </h3>
 
 <p align="center">
@@ -12,13 +12,7 @@ Passionate about building modern, scalable, and responsive web applications with
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;React.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=husnainjavaid856&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/husnainjavaid856?label=Followers&style=flat&color=blue" />
-<img src="https://img.shields.io/github/stars/husnainjavaid856?affiliations=OWNER&style=flat&color=yellow" />
-</p>
 
----
 
 ## 🌐 Connect With Me
 
@@ -44,7 +38,7 @@ Passionate about building modern, scalable, and responsive web applications with
 
 # 👨‍💻 About Me
 
-🚀 Full-Stack MERN Developer passionate about creating modern web applications.
+🚀 Full-Stack MERN Developer creating modern web applications.
 
 💻 Experienced in building responsive, scalable, and user-friendly applications using JavaScript technologies.
 
@@ -54,16 +48,7 @@ Passionate about building modern, scalable, and responsive web applications with
 - TypeScript
 - Authentication & Authorization
 - Cloud Deployment
-- System Design
 
-🎯 Looking for
-
-- Software Engineering Internship
-- Junior Full-Stack Developer Roles
-- Open Source Collaboration
-- Freelance Projects
-
----
 
 # 🛠 Tech Stack
 
@@ -111,25 +96,14 @@ Passionate about building modern, scalable, and responsive web applications with
 
 # ⭐ Featured Projects
 
-### 🛒 MERN E-Commerce
+### Advanced HR Management System
 
-A complete e-commerce platform with authentication, payments, and admin dashboard.
+A modern full-stack Employee Management & HR Portal built with React, Node.js, Express and Mongo DB.
 
-🔗 Live Demo
-
-🔗 Repository
+🔗 https://github.com/husnainjavaid856/HR-Management-System
 
 ---
 
-### 💬 Real-Time Chat Application
-
-Built using Socket.io and MERN Stack.
-
-🔗 Live Demo
-
-🔗 Repository
-
----
 
 ### 💼 Portfolio Website
 
@@ -137,17 +111,8 @@ Personal portfolio showcasing my projects and skills.
 
 🌐 https://husnain-portfolio-six.vercel.app/
 
----
 
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=husnainjavaid856&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnainjavaid856&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -169,47 +134,7 @@ Personal portfolio showcasing my projects and skills.
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=husnainjavaid856&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,docker,firebase"/>
-
-</p>
-
-- JWT Authentication
-- REST APIs
-- Deployment
-- System Design
-- AWS Fundamentals
-
----
-
-# 🤝 Open To
-
-✅ Full-Time Opportunities
-
-✅ Internship Opportunities
-
-✅ Freelance Projects
-
-✅ Open Source Contributions
-
-✅ Technical Collaboration
-
----
 
 # 💬 Quote
 
